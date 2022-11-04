@@ -3,5 +3,5 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world_app():
-    message = "Hello k!!"
-    return message
+    message = "Hello lavdu !!"
+majla ka re     return message
